@@ -30,10 +30,10 @@ Los datos se almacenan en el archivo /datasets/music_project_en.csv. También pu
 
 Descripción de las columnas:
 
-'userID': identifica de forma exclusiva a cada usuario o usuaria;
-'Track': título de la canción;
-'artist': nombre del artista;
-'genre': género musical;
-'City': ciudad del usuario o la usuaria;
-'time': hora del día en la que se reprodujo la pista (HH:MM:SS);
-'Day': día de la semana.
+- 'userID': identifica de forma exclusiva a cada usuario o usuaria;
+- 'Track': título de la canción;
+- 'artist': nombre del artista;
+- 'genre': género musical;
+- 'City': ciudad del usuario o la usuaria;
+- 'time': hora del día en la que se reprodujo la pista (HH:MM:SS);
+- 'Day': día de la semana.
